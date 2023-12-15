@@ -28,7 +28,7 @@ async function createNode() {
     <div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
       <header class="mb-auto">
         <div>
-          <h3 class="float-md-start mb-0 mx-3">create me.</h3>
+          <h3 class="float-md-start mb-0 mx-3">Sign up</h3>
         </div>
       </header>
 
@@ -72,8 +72,8 @@ async function createNode() {
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
   width: 100vw;
   height: 100vh;
-  background-color: rgb(255, 72, 99);
-  color: #000000;
+  background-color: rgb(108, 54, 255);
+  color: #ffffff;
 }
 
 

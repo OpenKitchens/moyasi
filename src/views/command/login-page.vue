@@ -3,14 +3,14 @@
     <div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
       <header class="mb-auto">
         <div>
-          <h3 class="float-md-start mb-0 mx-3">create me.</h3>
+          <h3 class="float-md-start mb-0 mx-3">Log in</h3>
         </div>
       </header>
 
       <main class="px-3 text-center">
         <div class="row">
           <div class="col-md-6">
-            <h1 class="fw-bold col-md-9 mx-auto fadein" style="text-align: left;">弱者男性の皆さん。安心してください。ここにフェミニストはいませんよ！</h1>
+            <h1 class="fw-bold col-md-9 mx-auto fadein" style="text-align: left;">上じゃなくたって、下じゃなくたって横に立って道はあるんだ。</h1>
           </div>
           <div class="col-md-6">
             <h3 class="fw-bold mb-3">さぁ始めよう</h3>
@@ -32,7 +32,7 @@
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
   width: 100vw;
   height: 100vh;
-  background-color: rgb(108, 54, 255);
+  background-color: rgb(255, 72, 99);
   color: #fff;
 }
 </style>

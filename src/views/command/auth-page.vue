@@ -3,14 +3,14 @@
     <div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
       <header class="mb-auto">
         <div>
-          <h3 class="float-md-start mb-0 mx-3">create me.</h3>
+          <h3 class="float-md-start mb-0 mx-3">Auth</h3>
         </div>
       </header>
 
       <main class="px-3 text-center">
         <div class="row">
           <div class="col-md-6">
-            <h1 class="fw-bold col-md-9 mx-auto fadein" style="text-align: left;">排他的で自己顕示欲が支配するインターネットから逃亡しましょう。</h1>
+            <h1 class="fw-bold col-md-9 mx-auto fadein" style="text-align: left;">揺らぎ始める世界、曖昧になる風景。</h1>
           </div>
           <div class="col-md-6">
             <h3 class="fw-bold mb-3">さぁ始めよう</h3>

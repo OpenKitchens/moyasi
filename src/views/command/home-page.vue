@@ -1,3 +1,10 @@
+<script setup lang="ts">
+import { useRouter } from 'vue-router';
+
+const router = useRouter();
+
+router.push('/auth');
+</script>
 <template>
   <div class="body">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
